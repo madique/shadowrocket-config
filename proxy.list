@@ -51,7 +51,9 @@ DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,kino.pub
 DOMAIN-KEYWORD,instagram
-DOMAIN-SUFFIX, zebra.com
+DOMAIN-SUFFIX,zebra.com
+DOMAIN-SUFFIX,flexnetoperations.com
+
 
 # Telegram
 #DOMAIN-SUFFIX,t.me
