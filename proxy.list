@@ -53,7 +53,10 @@ DOMAIN-SUFFIX,kino.pub
 DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,zebra.com
 DOMAIN-SUFFIX,flexnetoperations.com
-
+DOMAIN-SUFFIX,getpostman.com
+DOMAIN-SUFFIX,postman.com
+DOMAIN-SUFFIX,postman.co
+DOMAIN-SUFFIX,pstmn.io
 
 # Telegram
 #DOMAIN-SUFFIX,t.me
