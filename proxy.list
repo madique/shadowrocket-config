@@ -57,7 +57,9 @@ DOMAIN-SUFFIX,getpostman.com
 DOMAIN-SUFFIX,postman.com
 DOMAIN-SUFFIX,postman.co
 DOMAIN-SUFFIX,pstmn.io
+DOMAIN-SUFFIX,auto.de
 DOMAIN,bard.google.com
+
 
 # Telegram
 #DOMAIN-SUFFIX,t.me
