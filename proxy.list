@@ -50,7 +50,6 @@ DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,kino.pub
-DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,zebra.com
 DOMAIN-SUFFIX,flexnetoperations.com
 DOMAIN-SUFFIX,getpostman.com
@@ -58,6 +57,10 @@ DOMAIN-SUFFIX,postman.com
 DOMAIN-SUFFIX,postman.co
 DOMAIN-SUFFIX,pstmn.io
 DOMAIN-SUFFIX,auto.de
+DOMAIN-KEYWORD,myip.com,PROXY
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,openai.com,PROXY
+DOMAIN,zebra-licensing.flexnetoperations.com,PROXY
 DOMAIN,bard.google.com
 
 
