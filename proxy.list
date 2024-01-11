@@ -63,7 +63,8 @@ DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN,zebra-licensing.flexnetoperations.com,PROXY
 DOMAIN-SUFFIX,zebra.com
-
+DOMAIN-SUFFIX,bc.game
+DOMAIN-SUFFIX,cloudbet.com
 
 # Telegram
 #DOMAIN-SUFFIX,t.me
