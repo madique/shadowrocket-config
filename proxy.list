@@ -65,6 +65,7 @@ DOMAIN,zebra-licensing.flexnetoperations.com,PROXY
 DOMAIN-SUFFIX,zebra.com,PROXY
 DOMAIN-SUFFIX,bc.game,PROXY
 DOMAIN-SUFFIX,cloudbet.com,PROXY
+DOMAIN-SUFFIX,dw.com,PROXY
 
 # Telegram
 #DOMAIN-SUFFIX,t.me
