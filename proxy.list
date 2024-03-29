@@ -68,6 +68,7 @@ DOMAIN-SUFFIX,cloudbet.com,PROXY
 DOMAIN-KEYWORD,dw.com,PROXY
 DOMAIN,dw.com,PROXY
 DOMAIN,twocanoes.com,PROXY
+DOMAIN,eyeofgod.press,PROXY
 
 # Telegram
 DOMAIN-SUFFIX,t.me
