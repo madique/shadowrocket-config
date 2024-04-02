@@ -67,7 +67,7 @@ DOMAIN-SUFFIX,bc.game,PROXY
 DOMAIN-SUFFIX,cloudbet.com,PROXY
 DOMAIN-KEYWORD,dw.com,PROXY
 DOMAIN,dw.com,PROXY
-DOMAIN,twocanoes.com,PROXY
+DOMAIN,elevenlabs.io,PROXY
 
 # Telegram
 DOMAIN-SUFFIX,t.me
