@@ -3,15 +3,20 @@
 DOMAIN-SUFFIX,aol.com,PROXY
 DOMAIN-SUFFIX,auto.de,PROXY
 DOMAIN,bard.google.com,PROXY
+DOMAIN-SUFFIX,bc.game,PROXY
 DOMAIN-SUFFIX,browserleaks.com,PROXY
 DOMAIN-SUFFIX,canva.com,PROXY
 DOMAIN-SUFFIX,cdnfacebook.com,PROXY
 DOMAIN-SUFFIX,cdnfbsbx.com,force-remote-dns,PROXY
 DOMAIN-SUFFIX,cdninstagram.com,force-remote-dns,PROXY
+DOMAIN-SUFFIX,cloudbet.com,PROXY
 DOMAIN-SUFFIX,coinmarketcap.com,PROXY
 DOMAIN-SUFFIX,connect.facebook.net,PROXY
+DOMAIN-KEYWORD,dw.com,PROXY
+DOMAIN,dw.com,PROXY
 DOMAIN-SUFFIX,dyson.com,PROXY
 DOMAIN-SUFFIX,edge-chat.facebook.com,PROXY
+DOMAIN,elevenlabs.io,PROXY
 DOMAIN-SUFFIX,f.vision,PROXY
 DOMAIN-SUFFIX,facebook.com,PROXY
 DOMAIN-SUFFIX,fb.com,PROXY
@@ -25,7 +30,6 @@ DOMAIN-SUFFIX,getpostman.com,PROXY
 DOMAIN-SUFFIX,graph.facebook.com,PROXY
 DOMAIN-SUFFIX,gravatar.com,PROXY
 DOMAIN-SUFFIX,igcdn.com,PROXY
-DOMAIN-KEYWORD,instagram,PROXY
 DOMAIN-SUFFIX,instagram.com,PROXY
 DOMAIN-SUFFIX,kahoot.com,PROXY
 DOMAIN-SUFFIX,kino.pub,PROXY
@@ -47,6 +51,7 @@ DOMAIN-SUFFIX,postman.com,PROXY
 DOMAIN-SUFFIX,proton.me,PROXY
 DOMAIN-SUFFIX,pstmn.io,PROXY
 DOMAIN-SUFFIX,quora.com,PROXY
+DOMAIN-SUFFIX,quora.com,PROXY
 DOMAIN-SUFFIX,setapp.com,PROXY
 DOMAIN-SUFFIX,skladchina.biz,PROXY
 DOMAIN-SUFFIX,slideshare.net,PROXY
@@ -61,13 +66,10 @@ DOMAIN-SUFFIX,twtkr.com,PROXY
 DOMAIN-SUFFIX,twttr.com,PROXY
 DOMAIN-SUFFIX,vimeo.com,PROXY
 DOMAIN-SUFFIX,vimeocdn.com,PROXY
+DOMAIN-SUFFIX,x.com,PROXY
+DOMAIN-SUFFIX,youtube.com,PROXY
 DOMAIN,zebra-licensing.flexnetoperations.com,PROXY
 DOMAIN-SUFFIX,zebra.com,PROXY
-DOMAIN-SUFFIX,bc.game,PROXY
-DOMAIN-SUFFIX,cloudbet.com,PROXY
-DOMAIN-KEYWORD,dw.com,PROXY
-DOMAIN,dw.com,PROXY
-DOMAIN,elevenlabs.io,PROXY
 
 # Open AI
 DOMAIN,browser-intake-datadoghq.com
