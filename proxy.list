@@ -1,7 +1,7 @@
 # original by: https://github.com/misha-tgshv/shadowrocket-configuration-file
 
 DOMAIN-SUFFIX,aol.com
-DOMAIN-SUFFIX,apple.com
+# DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,auto.de
 DOMAIN,bard.google.com
 DOMAIN-SUFFIX,bc.game
@@ -29,7 +29,7 @@ DOMAIN-SUFFIX,gateway.facebook.com
 DOMAIN-SUFFIX,getpostman.com
 DOMAIN-SUFFIX,graph.facebook.com
 DOMAIN-SUFFIX,gravatar.com
-DOMAIN-SUFFIX,icloud.com
+# DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,igcdn.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,kahoot.com
