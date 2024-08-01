@@ -66,6 +66,7 @@ DOMAIN-SUFFIX,vimeocdn.com,PROXY
 DOMAIN-SUFFIX,x.com,PROXY
 # DOMAIN-SUFFIX,youtube.com,PROXY
 DOMAIN-KEYWORD,youtube,PROXY
+DOMAIN-SUFFIX,youtu.be,Proxy
 DOMAIN-SUFFIX,zebra.com,PROXY
 DOMAIN,zebra-licensing.flexnetoperations.com,PROXY
 
