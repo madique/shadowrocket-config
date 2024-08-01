@@ -12,11 +12,10 @@ DOMAIN-SUFFIX,cdninstagram.com,force-remote-dns,PROXY
 DOMAIN-SUFFIX,cloudbet.com,PROXY
 DOMAIN-SUFFIX,coinmarketcap.com,PROXY
 DOMAIN-SUFFIX,connect.facebook.net,PROXY
-DOMAIN-KEYWORD,dw.com,PROXY
-DOMAIN,dw.com,PROXY
+DOMAIN-SUFFIX,dw.com,PROXY
 DOMAIN-SUFFIX,dyson.com,PROXY
 DOMAIN-SUFFIX,edge-chat.facebook.com,PROXY
-DOMAIN,elevenlabs.io,PROXY
+DOMAIN-SUFFIX,elevenlabs.io,PROXY
 DOMAIN-SUFFIX,f.vision,PROXY
 DOMAIN-SUFFIX,facebook.com,PROXY
 DOMAIN-SUFFIX,fb.com,PROXY
@@ -39,12 +38,10 @@ DOMAIN-SUFFIX,linkedin.com,PROXY
 DOMAIN-SUFFIX,lnkd.in,PROXY
 DOMAIN-SUFFIX,medium.com,PROXY
 DOMAIN-SUFFIX,meta.com,PROXY
-DOMAIN-KEYWORD,myip.com,PROXY
+DOMAIN-SUFFIX,myip.com,PROXY
 DOMAIN-SUFFIX,netflix.com,PROXY
 DOMAIN-SUFFIX,netpeaksoftware.com,PROXY
 DOMAIN-SUFFIX,nnmclub.to,PROXY
-DOMAIN-SUFFIX,openai.com,PROXY
-DOMAIN-KEYWORD,openai.com,PROXY
 DOMAIN-SUFFIX,openwrt.org,PROXY
 DOMAIN-SUFFIX,postman.co,PROXY
 DOMAIN-SUFFIX,postman.com,PROXY
@@ -67,9 +64,10 @@ DOMAIN-SUFFIX,twttr.com,PROXY
 DOMAIN-SUFFIX,vimeo.com,PROXY
 DOMAIN-SUFFIX,vimeocdn.com,PROXY
 DOMAIN-SUFFIX,x.com,PROXY
-DOMAIN-SUFFIX,youtube.com,PROXY
-DOMAIN,zebra-licensing.flexnetoperations.com,PROXY
+# DOMAIN-SUFFIX,youtube.com,PROXY
+DOMAIN-KEYWORD,youtube,PROXY
 DOMAIN-SUFFIX,zebra.com,PROXY
+DOMAIN,zebra-licensing.flexnetoperations.com,PROXY
 
 # Open AI
 DOMAIN,browser-intake-datadoghq.com,PROXY
