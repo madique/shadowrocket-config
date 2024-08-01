@@ -71,33 +71,33 @@ DOMAIN-SUFFIX,zebra.com,PROXY
 DOMAIN,zebra-licensing.flexnetoperations.com,PROXY
 
 # Open AI
-DOMAIN,browser-intake-datadoghq.com,PROXY
-DOMAIN,static.cloudflareinsights.com,PROXY
-DOMAIN-SUFFIX,ai.com,PROXY
-DOMAIN-SUFFIX,algolia.net,PROXY
-DOMAIN-SUFFIX,api.statsig.com,PROXY
-DOMAIN-SUFFIX,auth0.com,PROXY
-DOMAIN-SUFFIX,chatgpt.com,PROXY
-DOMAIN-SUFFIX,chatgpt.livekit.cloud,PROXY
-DOMAIN-SUFFIX,client-api.arkoselabs.com,PROXY
-DOMAIN-SUFFIX,events.statsigapi.net,PROXY
-DOMAIN-SUFFIX,featuregates.org,PROXY
-DOMAIN-SUFFIX,host.livekit.cloud,PROXY
-DOMAIN-SUFFIX,identrust.com,PROXY
-DOMAIN-SUFFIX,intercom.io,PROXY
-DOMAIN-SUFFIX,intercomcdn.com,PROXY
-DOMAIN-SUFFIX,launchdarkly.com,PROXY
-DOMAIN-SUFFIX,oaistatic.com,PROXY
-DOMAIN-SUFFIX,oaiusercontent.com,PROXY
-DOMAIN-SUFFIX,observeit.net,PROXY
-DOMAIN-SUFFIX,segment.io,PROXY
-DOMAIN-SUFFIX,sentry.io,PROXY
-DOMAIN-SUFFIX,stripe.com,PROXY
-DOMAIN-SUFFIX,turn.livekit.cloud,PROXY
-DOMAIN-KEYWORD,openai,PROXY
-IP-CIDR,24.199.123.28/32,PROXY,no-resolve
-IP-CIDR,64.23.132.171/32,PROXY,no-resolve
-#IP-ASN,20473,PROXY,no-resolve
+# DOMAIN,browser-intake-datadoghq.com,PROXY
+# DOMAIN,static.cloudflareinsights.com,PROXY
+# DOMAIN-SUFFIX,ai.com,PROXY
+# DOMAIN-SUFFIX,algolia.net,PROXY
+# DOMAIN-SUFFIX,api.statsig.com,PROXY
+# DOMAIN-SUFFIX,auth0.com,PROXY
+# DOMAIN-SUFFIX,chatgpt.com,PROXY
+# DOMAIN-SUFFIX,chatgpt.livekit.cloud,PROXY
+# DOMAIN-SUFFIX,client-api.arkoselabs.com,PROXY
+# DOMAIN-SUFFIX,events.statsigapi.net,PROXY
+# DOMAIN-SUFFIX,featuregates.org,PROXY
+# DOMAIN-SUFFIX,host.livekit.cloud,PROXY
+# DOMAIN-SUFFIX,identrust.com,PROXY
+# DOMAIN-SUFFIX,intercom.io,PROXY
+# DOMAIN-SUFFIX,intercomcdn.com,PROXY
+# DOMAIN-SUFFIX,launchdarkly.com,PROXY
+# DOMAIN-SUFFIX,oaistatic.com,PROXY
+# DOMAIN-SUFFIX,oaiusercontent.com,PROXY
+# DOMAIN-SUFFIX,observeit.net,PROXY
+# DOMAIN-SUFFIX,segment.io,PROXY
+# DOMAIN-SUFFIX,sentry.io,PROXY
+# DOMAIN-SUFFIX,stripe.com,PROXY
+# DOMAIN-SUFFIX,turn.livekit.cloud,PROXY
+# DOMAIN-KEYWORD,openai,PROXY
+# IP-CIDR,24.199.123.28/32,PROXY,no-resolve
+# IP-CIDR,64.23.132.171/32,PROXY,no-resolve
+# IP-ASN,20473,PROXY,no-resolve
 
 # Claude AI
 DOMAIN-SUFFIX,claude.ai,PROXY
