@@ -1,6 +1,7 @@
 # original by: https://github.com/misha-tgshv/shadowrocket-configuration-file
 
 DOMAIN-SUFFIX,aol.com,PROXY
+DOMAIN-SUFFIX,apple.com,PROXY
 DOMAIN-SUFFIX,auto.de,PROXY
 DOMAIN,bard.google.com,PROXY
 DOMAIN-SUFFIX,bc.game,PROXY
@@ -28,6 +29,7 @@ DOMAIN-SUFFIX,gateway.facebook.com,PROXY
 DOMAIN-SUFFIX,getpostman.com,PROXY
 DOMAIN-SUFFIX,graph.facebook.com,PROXY
 DOMAIN-SUFFIX,gravatar.com,PROXY
+DOMAIN-SUFFIX,icloud.com,PROXY
 DOMAIN-SUFFIX,igcdn.com,PROXY
 DOMAIN-SUFFIX,instagram.com,PROXY
 DOMAIN-SUFFIX,kahoot.com,PROXY
