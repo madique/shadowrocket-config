@@ -71,64 +71,64 @@ DOMAIN-SUFFIX,zebra.com
 DOMAIN,zebra-licensing.flexnetoperations.com
 
 # OPEN AI
-DOMAIN,api.statsig.com,PROXY
-DOMAIN,browser-intake-datadoghq.com,PROXY
-DOMAIN,chat.openai.com.cdn.cloudflare.net,PROXY
-DOMAIN,o33249.ingest.sentry.io,PROXY
-DOMAIN,openai-api.arkoselabs.com,PROXY
-DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,PROXY
-DOMAIN,openaicomproductionae4b.blob.core.windows.net,PROXY
-DOMAIN,production-openaicom-storage.azureedge.net,PROXY
-DOMAIN,static.cloudflareinsights.com,PROXY
-DOMAIN-KEYWORD,openaicom-api,PROXY
-DOMAIN-SUFFIX,algolia.net,PROXY
-DOMAIN-SUFFIX,auth0.com,PROXY
-DOMAIN-SUFFIX,cdn.cloudflare.net,PROXY
-DOMAIN-SUFFIX,challenges.cloudflare.com,PROXY
-DOMAIN-SUFFIX,chatgpt.livekit.cloud,PROXY
-DOMAIN-SUFFIX,client-api.arkoselabs.com,PROXY
-DOMAIN-SUFFIX,events.statsigapi.net,PROXY
-DOMAIN-SUFFIX,featuregates.org,PROXY
-DOMAIN-SUFFIX,host.livekit.cloud,PROXY
-DOMAIN-SUFFIX,identrust.com,PROXY
-DOMAIN-SUFFIX,intercom.io,PROXY
-DOMAIN-SUFFIX,intercomcdn.com,PROXY
-DOMAIN-SUFFIX,launchdarkly.com,PROXY
-DOMAIN-SUFFIX,oaistatic.com,PROXY
-DOMAIN-SUFFIX,oaiusercontent.com,PROXY
-DOMAIN-SUFFIX,observeit.net,PROXY
-DOMAIN-SUFFIX,openai.com,PROXY
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net,PROXY
-DOMAIN-SUFFIX,openaicom.imgix.net,PROXY
-DOMAIN-SUFFIX,poe.com,PROXY
-DOMAIN-SUFFIX,segment.io,PROXY
-DOMAIN-SUFFIX,sentry.io,PROXY
-DOMAIN-SUFFIX,stripe.com,PROXY
-DOMAIN-SUFFIX,turn.livekit.cloud,PROXY
-IP-CIDR,24.199.123.28/32,PROXY,no-resolve
-IP-CIDR,45.76.214.191/32,PROXY,no-resolve
-IP-CIDR,64.23.132.171/32,PROXY,no-resolve
-IP-CIDR,143.198.200.27/32,PROXY,no-resolve
-IP-CIDR,159.89.204.203/32,PROXY,no-resolve
+DOMAIN,api.statsig.com
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openai-api.arkoselabs.com
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN,static.cloudflareinsights.com
+DOMAIN-KEYWORD,openaicom-api
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,cdn.cloudflare.net
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,turn.livekit.cloud
+IP-CIDR,24.199.123.28/32
+IP-CIDR,45.76.214.191/32
+IP-CIDR,64.23.132.171/32
+IP-CIDR,143.198.200.27/32
+IP-CIDR,159.89.204.203/32
 
 # Claude AI
 DOMAIN-SUFFIX,claude.ai
 
 
 # Telegram
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,telesco.pe
-IP-CIDR,91.108.4.0/22,no-resolve
-IP-CIDR,91.108.8.0/22,no-resolve
-IP-CIDR,91.108.12.0/22,no-resolve
-IP-CIDR,91.108.16.0/22,no-resolve
-IP-CIDR,91.108.56.0/22,no-resolve
-IP-CIDR,109.239.140.0/24,no-resolve
-IP-CIDR,149.154.160.0/20,no-resolve
-IP-CIDR,2001:B28:F23D::/48,no-resolve
-IP-CIDR,2001:B28:F23F::/48,no-resolve
-IP-CIDR,2001:67C:4E8::/48,no-resolve
+# DOMAIN-SUFFIX,t.me
+# DOMAIN-SUFFIX,tdesktop.com
+# DOMAIN-SUFFIX,telegra.ph
+# DOMAIN-SUFFIX,telegram.me
+# DOMAIN-SUFFIX,telegram.org
+# DOMAIN-SUFFIX,telesco.pe
+# IP-CIDR,91.108.4.0/22,no-resolve
+# IP-CIDR,91.108.8.0/22,no-resolve
+# IP-CIDR,91.108.12.0/22,no-resolve
+# IP-CIDR,91.108.16.0/22,no-resolve
+# IP-CIDR,91.108.56.0/22,no-resolve
+# IP-CIDR,109.239.140.0/24,no-resolve
+# IP-CIDR,149.154.160.0/20,no-resolve
+# IP-CIDR,2001:B28:F23D::/48,no-resolve
+# IP-CIDR,2001:B28:F23F::/48,no-resolve
+# IP-CIDR,2001:67C:4E8::/48,no-resolve
