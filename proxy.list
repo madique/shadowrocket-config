@@ -71,7 +71,7 @@ DOMAIN,zebra-licensing.flexnetoperations.com
 DOMAIN-KEYWORD,zebra
 
 # Notion
-KEYWORD,notion
+DOMAIN-KEYWORD,notion
 
 # Youtube
 DOMAIN-SUFFIX,googlevideo.com
