@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,l.facebook.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,lnkd.in
+DOMAIN-SUFFIX,mailchi.mp
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,myip.com
@@ -67,6 +68,10 @@ DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,zebra.com
 DOMAIN,zebra-licensing.flexnetoperations.com
+DOMAIN-KEYWORD,zebra
+
+# Notion
+KEYWORD,notion
 
 # Youtube
 DOMAIN-SUFFIX,googlevideo.com
