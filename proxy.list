@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,cdninstagram.com,force-remote-dns
 DOMAIN-SUFFIX,cloudbet.com
 DOMAIN-SUFFIX,coinmarketcap.com
 DOMAIN-SUFFIX,connect.facebook.net
+DOMAIN-KEYWORD,discord
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,dyson.com
 DOMAIN-SUFFIX,edge-chat.facebook.com
@@ -128,19 +129,19 @@ DOMAIN-SUFFIX,claude.ai
 
 
 # Telegram
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,telesco.pe
-IP-CIDR,91.108.4.0/22,no-resolve
-IP-CIDR,91.108.8.0/22,no-resolve
-IP-CIDR,91.108.12.0/22,no-resolve
-IP-CIDR,91.108.16.0/22,no-resolve
-IP-CIDR,91.108.56.0/22,no-resolve
-IP-CIDR,109.239.140.0/24,no-resolve
-IP-CIDR,149.154.160.0/20,no-resolve
-IP-CIDR,2001:B28:F23D::/48,no-resolve
-IP-CIDR,2001:B28:F23F::/48,no-resolve
-IP-CIDR,2001:67C:4E8::/48,no-resolve
+# DOMAIN-SUFFIX,t.me
+# DOMAIN-SUFFIX,tdesktop.com
+# DOMAIN-SUFFIX,telegra.ph
+# DOMAIN-SUFFIX,telegram.me
+# DOMAIN-SUFFIX,telegram.org
+# DOMAIN-SUFFIX,telesco.pe
+# IP-CIDR,91.108.4.0/22,no-resolve
+# IP-CIDR,91.108.8.0/22,no-resolve
+# IP-CIDR,91.108.12.0/22,no-resolve
+# IP-CIDR,91.108.16.0/22,no-resolve
+# IP-CIDR,91.108.56.0/22,no-resolve
+# IP-CIDR,109.239.140.0/24,no-resolve
+# IP-CIDR,149.154.160.0/20,no-resolve
+# IP-CIDR,2001:B28:F23D::/48,no-resolve
+# IP-CIDR,2001:B28:F23F::/48,no-resolve
+# IP-CIDR,2001:67C:4E8::/48,no-resolve
