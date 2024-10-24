@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,cdnfacebook.com
 DOMAIN-SUFFIX,cdnfbsbx.com,force-remote-dns
 DOMAIN-SUFFIX,cdninstagram.com,force-remote-dns
+DOMAIN-SUFFIX,chess.com
 DOMAIN-SUFFIX,cloudbet.com
 DOMAIN-SUFFIX,coinmarketcap.com
 DOMAIN-SUFFIX,connect.facebook.net
