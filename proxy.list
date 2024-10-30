@@ -1,5 +1,6 @@
 # original by: https://github.com/misha-tgshv/shadowrocket-configuration-file
 
+DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,auto.de
 DOMAIN,bard.google.com
