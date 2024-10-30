@@ -1,6 +1,5 @@
 # original by: https://github.com/misha-tgshv/shadowrocket-configuration-file
 
-DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,auto.de
 DOMAIN,bard.google.com
@@ -100,6 +99,7 @@ DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,cdn.cloudflare.net
 DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,events.statsigapi.net
@@ -128,6 +128,7 @@ IP-CIDR,159.89.204.203/32,no-resolve
 
 # Claude AI
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
 
 
 # Telegram
