@@ -71,6 +71,11 @@ DOMAIN-SUFFIX,zebra.com
 DOMAIN,zebra-licensing.flexnetoperations.com
 DOMAIN-KEYWORD,zebra
 
+# discord
+DOMAIN-KEYWORD,discord,PROXY
+DOMAIN-KEYWORD,discordapp,PROXY
+
+
 # Notion
 DOMAIN-KEYWORD,notion
 
