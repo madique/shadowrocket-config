@@ -1,18 +1,22 @@
 # original by: https://github.com/misha-tgshv/shadowrocket-configuration-file
 
 DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,atlassian
 DOMAIN-SUFFIX,auto.de
-DOMAIN,bard.google.com
 DOMAIN-SUFFIX,bc.game
+DOMAIN-SUFFIX,bestchange.ru
+DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,cdnfacebook.com
 DOMAIN-SUFFIX,cdnfbsbx.com,force-remote-dns
 DOMAIN-SUFFIX,cdninstagram.com,force-remote-dns
+DOMAIN-SUFFIX,chatboxai.app
 DOMAIN-SUFFIX,chess.com
 DOMAIN-SUFFIX,cloudbet.com
 DOMAIN-SUFFIX,coinmarketcap.com
 DOMAIN-SUFFIX,connect.facebook.net
+DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,dyson.com
 DOMAIN-SUFFIX,edge-chat.facebook.com
@@ -27,7 +31,7 @@ DOMAIN-SUFFIX,fburl.com
 DOMAIN-SUFFIX,flexnetoperations.com
 DOMAIN-SUFFIX,gateway.facebook.com
 DOMAIN-SUFFIX,getpostman.com
-DOMAIN-KYEWORD,github
+DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,graph.facebook.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,igcdn.com
@@ -42,6 +46,7 @@ DOMAIN-SUFFIX,mailchi.mp
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,myip.com
+DOMAIN-SUFFIX,napkin.ai
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netpeaksoftware.com
 DOMAIN-SUFFIX,nnmclub.to
@@ -50,20 +55,25 @@ DOMAIN-SUFFIX,postman.co
 DOMAIN-SUFFIX,postman.com
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,pstmn.io
+DOMAIN-SUFFIX,pump.fun
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,setapp.com
 DOMAIN-SUFFIX,skladchina.biz
 DOMAIN-SUFFIX,slideshare.net
 DOMAIN-SUFFIX,soundcloud.com
+DOMAIN-KEYWORD,swagger
+DOMAIN-SUFFIX,swaggerhub.com
 DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitthat.com
 DOMAIN-SUFFIX,twitter.co
 DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twitthat.com
 DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,unisender.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,x.com
@@ -71,22 +81,10 @@ DOMAIN-SUFFIX,zebra.com
 DOMAIN,zebra-licensing.flexnetoperations.com
 DOMAIN-KEYWORD,zebra
 
-DOMAIN-SUFFIX,pump.fun,PROXY
-DOMAIN-KEYWORD,swagger,PROXY
-DOMAIN-SUFFIX,swaggerhub.com,PROXY
-DOMAIN-SUFFIX,unisender.com,PROXY
-DOMAIN-SUFFIX,chatboxai.app,PROXY
-DOMAIN-SUFFIX,atlassian,PROXY
-DOMAIN-SUFFIX,trello.com,PROXY
-DOMAIN-SUFFIX,napkin.ai,PROXY
-DOMAIN-SUFFIX,copilot.microsoft.com,PROXY
-DOMAIN-SUFFIX,bing.com,PROXY
-DOMAIN-SUFFIX,bestchange.ru,PROXY
-DOMAIN-SUFFIX,notebooklm.google,PROXY
 
 # discord
-DOMAIN-KEYWORD,discord,PROXY
-DOMAIN-KEYWORD,discordapp,PROXY
+DOMAIN-KEYWORD,discord
+DOMAIN-KEYWORD,discordapp
 
 
 # Notion
@@ -146,3 +144,15 @@ IP-CIDR,159.89.204.203/32,no-resolve
 # Claude AI
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
+
+# Google
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,firebaseapp.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,notebooklm.google
