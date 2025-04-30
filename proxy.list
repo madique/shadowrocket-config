@@ -71,6 +71,19 @@ DOMAIN-SUFFIX,zebra.com
 DOMAIN,zebra-licensing.flexnetoperations.com
 DOMAIN-KEYWORD,zebra
 
+DOMAIN-SUFFIX,pump.fun,PROXY
+DOMAIN-KEYWORD,swagger,PROXY
+DOMAIN-SUFFIX,swaggerhub.com,PROXY
+DOMAIN-SUFFIX,unisender.com,PROXY
+DOMAIN-SUFFIX,chatboxai.app,PROXY
+DOMAIN-SUFFIX,atlassian,PROXY
+DOMAIN-SUFFIX,trello.com,PROXY
+DOMAIN-SUFFIX,napkin.ai,PROXY
+DOMAIN-SUFFIX,copilot.microsoft.com,PROXY
+DOMAIN-SUFFIX,bing.com,PROXY
+DOMAIN-SUFFIX,bestchange.ru,PROXY
+DOMAIN-SUFFIX,notebooklm.google,PROXY
+
 # discord
 DOMAIN-KEYWORD,discord,PROXY
 DOMAIN-KEYWORD,discordapp,PROXY
