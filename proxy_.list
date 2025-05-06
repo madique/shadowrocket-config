@@ -1,0 +1,116 @@
+# ========================
+# Общие сервисы
+# ========================
+DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,auto.de
+DOMAIN-SUFFIX,atlassian.com
+DOMAIN-SUFFIX,bestchange.ru
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,myip.com
+DOMAIN-SUFFIX,netpeaksoftware.com
+DOMAIN-SUFFIX,nnmclub.to
+DOMAIN-SUFFIX,openwrt.org
+DOMAIN-SUFFIX,pump.fun
+DOMAIN-SUFFIX,setapp.com
+DOMAIN-SUFFIX,skladchina.biz
+
+# ========================
+# Поисковые системы и базы
+# ========================
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,canva.com
+DOMAIN-SUFFIX,gravatar.com
+
+# ========================
+# Социальные сети
+# ========================
+DOMAIN-SUFFIX,facebook.com,force-remote-dns
+DOMAIN-SUFFIX,instagram.com,force-remote-dns
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,youtube.com
+
+DOMAIN-KEYWORD,discord
+DOMAIN-KEYWORD,discordapp
+
+# ========================
+# Видео и стриминг
+# ========================
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,soundcloud.com
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,ytimg.com
+
+# ========================
+# AI и чат-боты
+# ========================
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,chatboxai.app
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,cursor.ai
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,windsurf.com
+
+# ========================
+# Разработка и API
+# ========================
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,api.statsig.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,cdn.cloudflare.net
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,getpostman.com
+DOMAIN-SUFFIX,postman.co
+DOMAIN-SUFFIX,postman.com
+DOMAIN-SUFFIX,swaggerhub.com
+DOMAIN-KEYWORD,swagger
+
+# ========================
+# Маркетинг и рассылки
+# ========================
+DOMAIN-SUFFIX,mailchi.mp
+DOMAIN-SUFFIX,unisender.com
+
+# ========================
+# Финансы и крипто
+# ========================
+DOMAIN-SUFFIX,bc.game
+DOMAIN-SUFFIX,cloudbet.com
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,stripe.com
+
+# ========================
+# Безопасность и мониторинг
+# ========================
+DOMAIN-SUFFIX,branch.cloudflare.net
+DOMAIN-SUFFIX,identifytrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,sentry.io
+
+# ========================
+# Специальные записи
+# ========================
+DOMAIN,zebra-licensing.flexnetoperations.com
+DOMAIN-SUFFIX,zebra.com
+DOMAIN-KEYWORD,zebra
+
+# ========================
+# IP-прокси (фиксированные)
+# ========================
+IP-CIDR,24.199.123.28/32,no-resolve
+IP-CIDR,45.76.214.191/32,no-resolve
+IP-CIDR,64.23.132.171/32,no-resolve
+IP-CIDR,143.198.200.27/32,no-resolve
+IP-CIDR,159.89.204.203/32,no-resolve
