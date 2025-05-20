@@ -20,7 +20,7 @@ dns-direct-fallback-proxy = true
 # The fallback behavior when UDP traffic matches a policy that doesn't support the UDP relay. Possible values: DIRECT, REJECT.
 udp-policy-not-supported-behaviour = REJECT
 # Адрес обновления конфига
-update-url = https://raw.githubusercontent.com/madique/shadowrocket-config/main/config_ru.conf
+update-url = https://raw.githubusercontent.com/madique/shadowrocket-config/refs/heads/main/config_ru_final_direct
 
 [Rule]
 # Block HTTP3/QUIC
