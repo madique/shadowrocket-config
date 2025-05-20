@@ -42,8 +42,3 @@ FINAL,DIRECT
 [Host]
 localhost = 127.0.0.1
 # Автоматическое изменение адреса с yandex.ru на ya.ru
-
-
-
-[URL Rewrite]
-^http://(www.)?yandex.ru https://www.ya.ru 302
