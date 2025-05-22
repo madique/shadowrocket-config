@@ -26,13 +26,24 @@ update-url = https://raw.githubusercontent.com/madique/shadowrocket-config/refs/
 # Block HTTP3/QUIC
 # AND,((PROTOCOL,UDP),(DEST-PORT,443)),REJECT-NO-DROP
 # Массовое правило, где подключаются список доменов, для которых будет работать VPN
-RULE-SET,https://raw.githubusercontent.com/madique/shadowrocket-config/main/proxy.list,PROXY
+RULE-SET,https://raw.githubusercontent.com/madique/shadowrocket-config/refs/heads/main/proxy.list,PROXY
+
 # Discord
 RULE-SET,https://raw.githubusercontent.com/madique/shadowrocket-config/refs/heads/main/discord.list,PROXY
 RULE-SET,https://raw.githubusercontent.com/helmiau/clashrules/refs/heads/main/shadowrocket/Game_Discord_Ports.list,PROXY
 
 # Telegram
 # RULE-SET,https://raw.githubusercontent.com/madique/shadowrocket-config/refs/heads/main/telegram.list,PROXY
+
+# ========================
+# IP-прокси (фиксированные)
+# ========================
+IP-CIDR,24.199.123.28/32,NO-RESOLVE
+IP-CIDR,45.76.214.191/32,NO-RESOLVE
+IP-CIDR,64.23.132.171/32,NO-RESOLVE
+IP-CIDR,143.198.200.27/32,NO-RESOLVE
+IP-CIDR,159.89.204.203/32,NO-RESOLVE
+
 # ГЕО Россия, трафик идет напрямую (без VPN)
 GEOIP,RU,DIRECT
 # Последнее правило. Оно определяет политику по умолчанию для запросов, которые не соответствуют каким-либо другим правилам. В данном случае трафик идет напрямую без VPN
