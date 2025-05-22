@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,gravatar.com
 # ========================
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,youtube.com
