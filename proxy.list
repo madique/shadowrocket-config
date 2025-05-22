@@ -24,8 +24,8 @@ DOMAIN-SUFFIX,gravatar.com
 # ========================
 # Социальные сети
 # ========================
-DOMAIN-SUFFIX,facebook.com,force-remote-dns
-DOMAIN-SUFFIX,instagram.com,force-remote-dns
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,youtube.com
@@ -105,12 +105,3 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN,zebra-licensing.flexnetoperations.com
 DOMAIN-SUFFIX,zebra.com
 DOMAIN-KEYWORD,zebra
-
-# ========================
-# IP-прокси (фиксированные)
-# ========================
-IP-CIDR,24.199.123.28/32,no-resolve
-IP-CIDR,45.76.214.191/32,no-resolve
-IP-CIDR,64.23.132.171/32,no-resolve
-IP-CIDR,143.198.200.27/32,no-resolve
-IP-CIDR,159.89.204.203/32,no-resolve
